@@ -1,3 +1,4 @@
-build:
+name: zmk-keyboard-<koeleria>
+build: 
   settings:
     board_root: .
