@@ -11,5 +11,5 @@ Alternatively, to use my keymap as seen below you can download the firmware from
 ## Keymap Reference
 It is based on the [bird layout](https://github.com/jcmkk3/bird-layout)
 
+![ZMK Koeleria](https://github.com/user-attachments/assets/2033f80f-2daa-4d4e-a06b-a43c89758812)
 
-![ZMK Koeleria](https://github.com/user-attachments/assets/41fb7a06-e676-4a0b-bb9e-e6c683aa6120)
