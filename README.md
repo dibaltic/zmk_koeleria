@@ -1,7 +1,5 @@
 This is the firmware for [Koeleria keyboard](https://github.com/dibaltic/koeleria). 
 
-> Note: If you are trying to setup your keyboard for use with a dongle please refer to the [dongle ready firmware](https://github.com/dibaltic/zmk_koeleria_dongle)
-
 ## Getting Started
 If you'd like to make your own firmware,
 [here are the instructions to get started.](https://github.com/dibaltic/zmk_koeleria/blob/main/getting_started.md)
