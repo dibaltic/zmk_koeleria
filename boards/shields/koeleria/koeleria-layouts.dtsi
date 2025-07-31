@@ -46,7 +46,7 @@
         compatible = "zmk,physical-layout-position-map";
         complete;
 
-        irma {
+        koeleria {
             physical-layout = <&koeleria_physical_layout>;
             positions
                 = <  0  1  2  3  4  5  6  7  8  9>
