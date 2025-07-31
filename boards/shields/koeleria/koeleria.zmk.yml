@@ -8,6 +8,7 @@ exposes: [nice_view]
 features:
   - keys
   - display
+  - cirque
 siblings:
   - koeleria_left
   - koeleria_right
